@@ -1,0 +1,92 @@
+---
+Team:
+  - 1:
+      Employees:
+        - Olga:
+            name: Olga
+            job: Accountant
+        - Olga:
+            name: Olga
+            job: Accountant
+        - Olga:
+            name: Olga
+            job: Accountant
+        - Olga:
+            name: Olga
+            job: Accountant
+        - Dima:
+            name: Dima
+        - Dima:
+            name: Dima
+        - Ivan:
+            name: Ivan
+        - Ivan:
+            name: Ivan
+      Age: 1
+      Cost: 1
+  - 2:
+      Employees:
+        - Roman:
+            name: Roman
+            job: Lower
+        - Roman:
+            name: Roman
+            job: Lower
+        - Roman:
+            name: Roman
+            job: Lower
+        - Roman:
+            name: Roman
+            job: Lower
+        - Maxim:
+            name: Maxim
+            job: Driver
+        - Maxim:
+            name: Maxim
+            job: Driver
+      Age: 3
+      Cost: 3
+  - 3:
+      Employees:
+        - Ivan:
+            name: Ivan
+            job: Builder
+        - Kolya:
+            name: Kolya
+            job: Bilder
+        - Olga:
+            name: Olga
+            job: Accountant
+      Age: 3
+      Cost: 3
+  - 4:
+      Employees:
+        - Olga:
+            name: Olga
+            job: Accountant
+        - Olga:
+            name: Olga
+            job: Accountant
+        - Olga:
+            name: Olga
+            job: Accountant
+        - Olga:
+            name: Olga
+            job: Accountant
+        - Olga:
+            name: Olga
+            job: Accountant
+      Age: 2
+      Cost: 2
+  - 5:
+      Employees:
+      Age: 6
+      Cost: 2
+  - 6:
+      Employees:
+        - Igor Victorovich:
+            name: Igor Victorovich
+            job: security
+      Age: 5
+      Cost: 5
+
